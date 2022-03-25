@@ -27,3 +27,18 @@ header {
     cursor: pointer;
     border-radius: 16px;
   }
+
+  #alldogs {
+    border: 3px solid black;
+  }
+
+  .card {
+      border: 3px solid blue;
+  }
+
+  .row {
+      display:flex;
+      border: 3px solid pink;
+  }
+
+  img {width: auto;}
