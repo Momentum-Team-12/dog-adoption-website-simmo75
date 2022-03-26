@@ -9,12 +9,16 @@ header {
 
     .font-os {
     font-family: "Open Sans" ;
+     
+    
 
     }
     
     .oswaldfont {
     font-family: "Oswald";
+    font-size: 17px;
     font-weight: bold;
+    
 }
 .button {
     background-color: #89DEEF;
@@ -33,10 +37,10 @@ header {
     
     display:flex;
     flex-direction: column;
+    justify-content: space-around
   }
 
   .card {
-      border: 3px solid blue;
       width: 30% ;
     
 
@@ -44,11 +48,10 @@ header {
 
   .row {
       display:flex;
-      border: 3px solid pink;
       justify-content: center;
   }
 
   img {
-      width: 98%;
+      width: 96%;
 }
 
