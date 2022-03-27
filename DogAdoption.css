@@ -23,7 +23,10 @@ header {
 
     .oswaldfooter {
         font-family: "Oswald";
-        font-size: 30px;
+        font-size: 32px;
+        text-align: center;
+        /* flex: 1 1 auto; */
+        line-height: 30%;
     
 }
 .button {
@@ -60,3 +63,10 @@ header {
   img {
       width: 96%;
 }
+
+  /* .flexcontainer {
+display:flex;
+flex-direction: row;
+justify-content:inherit
+
+ } */
